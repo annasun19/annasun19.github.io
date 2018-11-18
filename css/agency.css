@@ -323,6 +323,7 @@ section h3.body-paragraph {
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
+  color: red;
 }
 #portfolio .portfolio-item .portfolio-link {
   display: block;
